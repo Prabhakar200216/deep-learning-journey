@@ -59,9 +59,4 @@ Instead of guessing these values manually, **Keras Tuner** helps us automaticall
 
 In short: Keras Tuner = a smart assistant that tries many model designs and suggests the best one.
 
----
 
-## 🚀 Future Improvements
-- Add regularization/dropout to reduce overfitting further.  
-- Try different search strategies (RandomSearch, Hyperband, Bayesian Optimization).  
-- Test on other medical datasets.
